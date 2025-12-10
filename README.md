@@ -208,11 +208,15 @@ This project is for academic and research use under Northeastern University's MP
 
 ---
 
-## 🎯 12. Contact
+## 🎯 12. Developers & Contact
 
-**Developer:** Owais Baig
-**Email:** [baig.o@northeastern.edu](mailto:baig.o@northeastern.edu)
-**LinkedIn:** [https://www.linkedin.com/in/owaisbaig786](https://www.linkedin.com/in/owaisbaig786)
-
+1. Owais Baig — baig.o@northeastern.edu
+2. Aditya Parey — parey.a@northeastern.edu
+3. Supraj Mudda — mudda.s@northeastern.edu
+4. Meiqi Hu — hu.meiq@northeastern.edu
+5. Sunil Purswani — purswani.su@northeastern.edu
+6. Pavan Pratap Reddy Pedaballi — pedaballi.p@northeastern.edu
+   
 ---
+
 
