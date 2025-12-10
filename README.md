@@ -1,6 +1,6 @@
 # Financial AI Multi-Agent System (Enterprise Edition)
 
-### Designed & Developed by **Group 2 - Owais Baig, Supraj Mudda, Sunil Purswani, Pavan Pratap Reddy Pedaballi, Aditya Parey, Meiqi Hu **
+### Designed & Developed by Group 2 - Owais Baig, Supraj Mudda, Sunil Purswani, Pavan Pratap Reddy Pedaballi, Aditya Parey, Meiqi Hu
 
 ---
 
@@ -215,3 +215,4 @@ This project is for academic and research use under Northeastern University's MP
 **LinkedIn:** [https://www.linkedin.com/in/owaisbaig786](https://www.linkedin.com/in/owaisbaig786)
 
 ---
+
