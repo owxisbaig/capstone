@@ -51,7 +51,7 @@ Supporting Layers:
 * Identifies risks, opportunities, and key takeaways
 * Produces clean, high-level summaries for decision-makers
 
-### **Wizard AI (Prototype)**
+### **Wizard AI (Individual Contribution Prototype)**
 
 * Lightweight domain-agnostic agent
 * Tests system extensibility beyond finance
@@ -218,5 +218,6 @@ This project is for academic and research use under Northeastern University's MP
 6. Pavan Pratap Reddy Pedaballi — pedaballi.p@northeastern.edu
    
 ---
+
 
 
